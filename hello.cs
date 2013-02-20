@@ -10,6 +10,6 @@ public class HelloWorld
 	
 	public static void Foo()
 	{
-	
+		Console.WriteLine("Bar!!!");
 	}
 }
